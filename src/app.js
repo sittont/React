@@ -5,6 +5,6 @@ import ReactDOM from 'react-dom';
 const App = function () {
 	return <div> <p> Hello World </p></div>;
 }
-
+TEST
 // inserting it on the DOM 
 ReactDOM .render(<App/>, document.querySelector('#container'));
